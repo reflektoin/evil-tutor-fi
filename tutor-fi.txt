@@ -7,3 +7,22 @@
 =                                                                             =
 =                                 Version 0.1                                 =
 ===============================================================================
+
+
+    TL;DR: Paina C-j (CTRL+j) hypätäksesi ensimmäiseen opetukseen.
+    Tutoriaali kestää noin 30 minuuttia.
+
+    Jos koet olevasi jumissa, voit vaihtaa emacs-tilaan komennolla:
+
+        M-x evil-emacs-state RET
+
+    Ja jatkaa tutoriaalia palaamalla normaaliin tilaan komennolla:
+
+        M-x evil-normal-state RET
+
+                                     * * *
+
+    Evil on erittäin voivamakas Vimin emulaatio, joka sisältää monia komentoja,
+    liian monia tässä tuutorissa käytäväksi. Tämä tuutori on suunniteltu
+    kuvaamaan riittävän monia komentoja, jotta voit helposti käyttää
+    Evilin vahvistamaa Emacsia yleiseditorina.
