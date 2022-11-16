@@ -65,3 +65,26 @@ Huom: Jos et ole varma jostain, mitä kirjoitit, paina <ESC>-näppäintä
 
 Huom: Kursori-näppäinten pitäisi toimia myös. Mutta hjkl-näppäinten avulla
       voit liikkua paljon nopeammin, kunhan ensin totut niihin.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+               Oppitunti 1.2.: Emacsin käynnistäminen ja sulkeminen
+
+
+    !! HUOM: Lue koko osio, ennen kuin suoritat yhtäkään alla olevaa
+       vaihetta!!
+
+  1. Paina <ESC>-näppäintä (varmistaaksesi, että olet normal-tilassa).
+
+  2. Kirjoita:                    :qa! <ENTER>.
+
+---> Tämä sulkee editorin TALLENTAMATTA tekemiäsi muutoksia.
+     Jos haluat tallentaa muutoksesi ja sulkea editorin, kirjoita:
+                                  :wqa <ENTER>
+
+  3. Kun näet shell-kehotteen, palaa Emacsiin ja jatka tutoriaali-istuntoa
+     kirjoittamalla:
+                                M-x evil-tutor-fi-start
+
+  4. Jos muistat nämä vaiheet ja olet varma, suorita vaiheet yhdestä
+     kolmeen sulkeaksesi ja palateksesi takaisin editoriin. Sitten siirrä
+     kursoria alaspäin, kohtaan Oppitunti 1.3.
