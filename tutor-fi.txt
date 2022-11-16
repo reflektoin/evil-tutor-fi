@@ -22,7 +22,46 @@
 
                                      * * *
 
-    Evil on erittäin voivamakas Vimin emulaatio, joka sisältää monia komentoja,
+    Evil on erittäin voimakas Vimin emulaatio, joka sisältää monia komentoja,
     liian monia tässä tuutorissa käytäväksi. Tämä tuutori on suunniteltu
     kuvaamaan riittävän monia komentoja, jotta voit helposti käyttää
     Evilin vahvistamaa Emacsia yleiseditorina.
+
+    Tutoriaalin suorittaminen kestää noin 25-30 minuuttia, riippuen siitä
+    kauanko aikaa käytät kokeiluihin.
+
+    Opetuksen komennot muokkaavat tekstiä. Ota kopio tästä tiedostosta
+    harjoittelemista varten (jos aloitit "evil-tutor-mode"lla, niin tämä
+    on jo kopio).
+
+    On tärkeää muistaa, että tämä tuutori on jäsennelty opettamaan käytännön
+    kautta. Tämä tarkoittaa, että sinun tulee suorittaa komentoja oppiaksesi
+    ne kunnolla. Jos vain luet tekstin, niin tulet unohtamaan komennot!
+
+    Nyt, varmista, ettei CAPS-Lock -painikkeesi ole painettuna alas ja
+    paina j-kirjaina niin monta kertaa, että "Oppitunti 1.1" peittää kokonaan
+    näytön.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        Oppitunti 1.1: Kursorin liikuttaminen
+
+
+  ** Liikuttaaksesi kursoria, paina h, j, k, l -näppäimiä kuten esitetty. **
+               ^
+               k       Vinkki: h-kirjain on vasemmalla ja siirtää vasemmalle.
+         < h       l >         l-kirjain on oikealla ja siirtää oikealle.
+               j               j-kirjain näyttää alaspäin-nuolelta.
+               v
+  1. Siirrä kursoria ympäri näyttöä, kunnes se tuntuu luontevalta.
+
+  2. Pidä j-näppäintä pohjassa, kunnes se liike toistuu.
+---> Nyt tiedät, kuinka siirtyä seuraavaan oppituntiin.
+
+  3. Käyttäen alaspäin-näppäintä, siirry oppituntiin 1.2.
+
+Huom: Jos et ole varma jostain, mitä kirjoitit, paina <ESC>-näppäintä
+      palataksesi normaaliin tilaan. Sitten kirjoita haluamasi komento
+      uudelleen.
+
+Huom: Kursori-näppäinten pitäisi toimia myös. Mutta hjkl-näppäinten avulla
+      voit liikkua paljon nopeammin, kunhan ensin totut niihin.
