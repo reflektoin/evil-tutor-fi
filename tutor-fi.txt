@@ -133,3 +133,29 @@ HUOM: Tehdessäsi tätä tutoriaalia, älä yritä painaa mieleen, vaan
 
   5. Kun tekstin lisääminen luonnistuu, voit siirtyä alla olevaan
      koosteeseen.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        Oppitunti 1 Kooste
+
+
+  1. Kursoria siirretään joko käyttäen nuolinäppäimiä tai näppäimin hjkl.
+        h (vasemmalle)      j (alas)      k (ylös)        l (oikealle)
+
+  2. Sulkeaksesi Emacsin, näppäile: <ESC> :qa! <ENTER> poistut tallentamatta
+                      tai näppäile: <ESC> :wqa <ENTER> postut tallentaen.
+
+  3. Poistaaksesi merkin kursorin alta normaalissa tilassa, paina:   x
+
+  4. Lisätäksesi tekstiä kursorin kohtaan ollessasi normaali-tilassa paina:
+        i
+        kirjoita haluamasi teksti
+        <ESC>
+
+HUOM: Painamalla <ESC> siirryt normaali-tilaan tai peruutat virheellisen
+      ja keskeneräisen komennon.
+
+Nyt siirry oppituntiin 2.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                            Oppitunti 2.1: Poistokomennot
