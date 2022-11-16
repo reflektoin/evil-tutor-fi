@@ -88,3 +88,25 @@ Huom: Kursori-näppäinten pitäisi toimia myös. Mutta hjkl-näppäinten avulla
   4. Jos muistat nämä vaiheet ja olet varma, suorita vaiheet yhdestä
      kolmeen sulkeaksesi ja palateksesi takaisin editoriin. Sitten siirrä
      kursoria alaspäin, kohtaan Oppitunti 1.3.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                Oppitunti 1.3: Tekstin muokkaus - Poistaminen
+
+** Ollessasi normaalissa tilassa, paina x-näppäintä poistaaksesi kirjaimen
+   kursorin alta. **
+
+  1. Siirrä kursori alla olevalle riville, joka on merkattu --->.
+
+  2. Korjataksesi virheet, liikuta kursoria, kunnes se on poistettavan
+     kirjaimen päällä.
+
+  3. Paina x-näppäintä poistaaksesi turhan kirjaimen.
+
+  4. Toista vaiheet 2 - 4 kunnes virke on oikein.
+
+---> Lehhmä hypppäsi kuuun ylii.
+
+  5. Nyt kun rivi on korjattu, siirry Oppituntiin 1.4.
+
+HUOM: Tehdessäsi tätä tutoriaalia, älä yritä painaa mieleen, vaan
+      opi käyttämällä.
