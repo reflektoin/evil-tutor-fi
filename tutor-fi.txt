@@ -110,3 +110,26 @@ Huom: Kursori-näppäinten pitäisi toimia myös. Mutta hjkl-näppäinten avulla
 
 HUOM: Tehdessäsi tätä tutoriaalia, älä yritä painaa mieleen, vaan
       opi käyttämällä.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                Oppitunti 1.4: Tekstin muokkaus - Lisääminen
+
+
+        ** Ollessasi normaalissa tilassa, paina i:tä lisätäksesi tekstiä **
+
+  1. Siirrä kursori ensimmäiselle alla olevalle riville, joka alkaa
+     merkein --->.
+
+  2. Tehdäksesi ensimmäisesti rivistä seuraavan rivin näköisen, siirrä
+     kursori sen kirjamen etupuolelle, jonka perään haluat lisätä tekstiä.
+
+  3. Paina i-näppäintä ja kirjoita tarpeelliset lisäykset.
+
+  4. Jokaisen korjauksen jälkeen, paina <ESC> palataksesi normaaliin tilaan.
+    Toista vaiheet 2 - 4 korjataksesi koko virkkeen.
+
+---> Tltä rivlt puttuu tsktiä.
+---> Tältä riviltä puuttuu jotain tekstiä.
+
+  5. Kun tekstin lisääminen luonnistuu, voit siirtyä alla olevaan
+     koosteeseen.
