@@ -224,3 +224,26 @@ Nyt siirry oppituntiin 2.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Oppitunti 2.4: Poikkeus  'KOMENTO-OBJEKTI' muotoon
+
+               ** Kirjoita  dd  poistaaksesi koko rivi. **
+
+  Koko rivin poistamisen runsaan käytön vuoksi, Evilin (kunnia Vimin
+  suunnittelijoille) suunnittelijat päättivät olevan helpompi kirjoittaa
+  kaksi d-kirjainta peräkanaa poistaakseen koko rivin.
+
+  1. Siirrä kursori alla olevan tekstin toiselle riville.
+  2. Kirjoita  dd  poistaaksesi rivin.
+  3. Siirry neljännelle riville.
+  4. Kirjoita   2dd  (muista  numero-komento-objekti) poistaaksesi kaksi riviä.
+
+      1)  Eka rivi oikein on,
+      2)  tässä paljon poistettavaa
+      3)  Voiko riimi jatkua noin,
+      4)  älä tätä säilytä
+      5)  poista tämäkin
+      6)  kyllä vaan,
+      7)  aina vain jatketaan.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
