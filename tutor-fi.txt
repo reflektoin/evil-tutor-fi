@@ -202,3 +202,25 @@ Nyt siirry oppituntiin 2.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    Oppitunti 2.3: Komennoista ja objekteista
+
+
+  d -poistokomennon muoto on seuraava:
+
+        [numero]  d  objekti   TAI    d  [numero]   objekti
+
+  Jossa:
+    numero  -  montako kertaa komento suoritetaan (valinnainen, oletusarvo=1)
+    d       -  on poistamisen komento.
+    objekti -  on komennon käsittelemä asia (listattu alla).
+
+  Lyhyt lista objekteista:
+    w - kursorista sanan loppuu, välilyönti myös.
+    e - kursorista sanan loppuun, EI välilyöntiä.
+    $ - kursorista rivin loppuun.
+
+  HUOM: Seikkailunhaluisille, näppäilemällä vain objektin normaali-tilassa
+  ilman komentoa siirtää kursorin kyseisellä objektille.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
