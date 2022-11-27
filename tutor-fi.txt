@@ -181,3 +181,24 @@ Nyt siirry oppituntiin 2.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        Oppitunti 2.2 Lisää poistokomentoja
+
+
+        ** Kirjoita  d$  poistaaksesi kaikki kursorilta rivin loppuun. **
+
+  1. Paina <ESC>  palataksesi normaali-tilaan.
+
+  2. Siirrä kursori merkein ---> alkavalle riville.
+
+  3. Siirrä kursori kohtaan johon haluat rivin päättyvän (ensimmäisen pisteen
+     jälkeen).
+
+  4. Kirjoita  d$ (eli pieni D-kirjain ja dollarimerkki) poistaaksesi rivin loppuosan.
+
+---> Joku kirjoitti tämän rivin lopun kahdesti. rivin lopun kahdesti.
+
+
+  5. Siirry oppituntiin 2.3 ymmärtääksesi, mitä tapahtuu.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
