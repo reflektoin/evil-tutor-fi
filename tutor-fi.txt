@@ -159,3 +159,25 @@ Nyt siirry oppituntiin 2.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                             Oppitunti 2.1: Poistokomennot
+
+
+                    ** Kirjoita   dw   poistaaksesi sanan loppuosa. **
+
+  1. Paina <ESC> palataksesi normaali-tilaan.
+
+  2. Siirrä kursori merkein ---> alkavalle riville.
+
+  3. Siirrä kursori poistettavan sanan alkuun.
+
+  4. Kirjoita  dw  poistaaksesi sana.
+
+  HUOM: Kirjaimet dw näkyvät näytön viimeisellä rivillä näppäillessäsi ne.
+        Jos kirjoitit jotain väärin, paina <ESC> ja aloita alusta.
+
+
+---> Tässä virkkeessä on soppa jotain sanoja, jotka hassu eivät kuulu siihen.
+
+  5. Toista vaiheet 3 ja 4, kunnes virke on oikein ja jatka oppituntiin 2.2.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
