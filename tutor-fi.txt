@@ -247,3 +247,25 @@ Nyt siirry oppituntiin 2.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    Oppitunti 2.5: Kumoa-komento
+
+
+                **  Paina   u   kumotaksesi edellisiä komentoja  **
+
+  1. Siirrä kursori merkein ---> alkavalle riville ja aseta se ensimmäisen
+     virheen kohdalle.
+  2. Paina  x  poistaaksesi ensimmäinen poistettava merkki.
+  3. Nyt paina   u   kumotaksesi suorittamasi komento.
+  4. Korjaa tällä kertaa kaikki rivin virheen käyttäen  x   -komentoa.
+  5. Nyt paina  u-kirjaita muutama kerta kumotaksesi kaikki aiemmat komennot.
+  6. Nyt paina CTRL-R (pidä CTRL pohjassa ja paina R-näppäintä) muutaman
+     kerran toistaaksesi kumoamasi komennot.
+
+
+---> Koorjaa virheet, jottka tällä rivillä oon ja kumooa ne.
+
+  8. Nämä ovat erittäin hyödyllisiä komentoja. Nyt siirry oppitunnin kaksi
+     koosteeseen.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
