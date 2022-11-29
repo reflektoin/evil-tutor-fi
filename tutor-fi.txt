@@ -357,3 +357,25 @@ HUOM: Muista, että sinun tulisi oppia käyttämällä, ei mieleen painamalla.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                Oppitunti 3.4: Lisää muutoksia käyttäen c -komentoa
+
+
+** Muuta -komentoa käytetään samojen objektien kanssa kuin poista-komentoa **
+
+  1. Muuta -komento toimii samalla tavoin kuin poista. Muoto on:
+
+      [numero]  c  objekti   TAI   c  [numero]  objekti
+
+  2. Objektit ovat myös samoja, kuten w (sana), $ (rivin loppu) jne.
+
+  3. Siiry merkein ---> alkavalle riville.
+
+  4. Siirrä kursori ensimmäisen virheen kohdalle.
+
+  5. Näppäile  c$  tehdäksesi rivistä alla olevan kaltaisen.
+
+---> Tämän rivin loppua tulee muokata vastaamaan alempaa riviä.
+---> Tämän rivin loppua tulee muokata käyttäen   c$   komentoa.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
