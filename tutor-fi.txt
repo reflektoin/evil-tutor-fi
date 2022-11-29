@@ -315,3 +315,25 @@ Nyt siirry oppituntiin 2.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    Oppitunti 3.2: Korvaa -komento
+
+
+    ** Paina  r  ja kirjain korvataksesi kursosin kohdalla oleva merkki. **
+
+  1. Siirrä kursori merkein ---> alkavalle riville.
+
+  2. Siirrä kursori ensimmäisen virheen kohdalle.
+
+  3. Paina  r  ja sitten kirjain, jonka pitäisi korvata virhe.
+
+  4. Toista vaiheet 2 - 3 kunnes ensimmäinen rivi on oikein.
+
+---> Kan tämä ravi kirjoutettiin, joku teki vitheitä!
+---> Kun tämä rivi kirjoitettiin, joku teki virheitä!
+
+  5. Nyt voit siirtyä oppituntiin 3.2.
+
+HUOM: Muista, että sinun tulisi oppia käyttämällä, ei mieleen painamalla.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
