@@ -401,3 +401,23 @@ Siirry nyt seuraavaan oppituntiin.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    Oppitunti 4.1: Nopeat liikkeet puskurissa
+
+                ** Näppäile  gg  siirtyäksesi puskurin alkuun.
+                   Näppäile  G  siirtyäksesi puskurin loppuun. **
+
+  HUOM: Lue koko oppitunti, ennen kuin suoritat yhtäkään vaihetta!!
+
+  1. Paina mieleen nykyinen rivinumero, tämä tehdään vaihetta 4 varten.
+
+  2. Paina  G  siirtyäksesi puskurin loppuun.
+
+  3. Näppäile  gg  siirtyäksesi puskurin alkuun.
+
+  4. Paina  :  ja rivinumero, jolla olit ja sen jälkeen <ENTER>. Tämä
+     palauttaa sinut riville, jolla olit ennen vaihetta 2.
+
+  5. Jos olet luottavainen näiden tekemiseen, suorita vaiheet 1 - 4.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
