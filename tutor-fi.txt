@@ -269,3 +269,26 @@ Nyt siirry oppituntiin 2.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        Oppitunti 2 kooste
+
+
+  1. Poistaaksesi kursorilta sanan loppuun, näppäile: dw
+
+  2. Poistaaksesi kursorilta rivin loppuun, näppäile: d$
+
+  3. Poistaaksesi koko rivin, näppäile: dd
+
+  4. Komennon muoto normaali-tilassa on:
+
+       [numero]  komento  objekti   TAI   komento  [numero]  objekti
+     Missä:
+       numero - on montako kertaa komento toistetaan
+       komento - on mitä tehdään, kuten esimerkiksi   d  poistettaessa
+       objekti - on komennon käsittelemä asia, kuten  w   sanaa käsiteltäessä,
+                 $  tarkoittaa  "rivin loppuun", jne.
+
+  5. Kumotaksesi edellisiä komentoja, paina u -näppäintä
+     Peruuttaaksesi kumoa-komennon, paina CTRL-R
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
