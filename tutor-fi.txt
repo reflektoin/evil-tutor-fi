@@ -379,3 +379,25 @@ HUOM: Muista, että sinun tulisi oppia käyttämällä, ei mieleen painamalla.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                          Oppitunti 3 kooste
+
+
+  1. Lisätätksesi tekstin, joka on jo poistettu, paina  p  , tämä lisää
+     poistetun tekstin kursorin ETEEN (jos rivi poistettiin, niin se menee
+     kursorin jälkeiselle riville).
+
+  2. Korvataksesi kursorin kohdalla olevan kirjaimen, paina  r  ja sitten
+     korvaava merkki.
+
+  3. Muuta-komento mahdollistaa kyseisen objektin muuttamisen kursorin
+     kohdalta objektin loppuun. Esim. kirjoita  cw  muuttaaksesi kursorilta
+     sanan loppuun,  tai   c$  kursorilta rivin loppuun.
+
+  4. Muoto muutos-komennolle on:
+
+        [numero]  c  objekti   TAI   c   [numero]    objekti
+
+Siirry nyt seuraavaan oppituntiin.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
