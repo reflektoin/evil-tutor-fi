@@ -337,3 +337,23 @@ HUOM: Muista, että sinun tulisi oppia käyttämällä, ei mieleen painamalla.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  Oppitunti 3.3: Muuta -komento
+
+              ** Muuttaaksesi osaa, tai koko sanan,  kirjoita  cw  **
+
+  1. Siirrä kursori merkein ---> alkavalle riville.
+
+  2. Siirrä kursori o-kirjaimen kohdalle.
+
+  3. Näppäile  cw  ja oikea loppuosa (tässä tapauksessa kirjoita 'ivillä').
+
+  4. Paina  <ESC>  nad siirry seuraavan virheen kohdalla (ensimmäisen
+     muutettavan kirjaimen kohdalle.)
+
+  5. Toista vaiheet 3 ja 4 kunnes ensimmäinen rivi vastaa toista.
+
+---> Tällä rokilla on munkktsa sana, jotka tikee mut muuta kmdogsa.
+---> Tällä rivillä on muutama sana, jotka tulee muuttaa muuta komennolla.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
