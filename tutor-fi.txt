@@ -292,3 +292,26 @@ Nyt siirry oppituntiin 2.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                          Oppitunti 3.1: Lisää -komento
+
+  **  Paina   p   lisätäksesi viimeisin poistettu teksti kursorin eteen  **
+
+  1. Siirrä kursori alla olevan joukon ensimmäiselle riville.
+
+  2. Näppäile  dd  poistaaksesi rivin ja tallentaaksesi sen Emacsin
+     poistorenkaaseen (eng. kill-ring).
+
+  3. Siirrä kursori sen rivin YLÄPUOLELLE, jolle haluat lisätä poistetun
+     rivin.
+
+  4. Normaali-tilassa, näppäile  p  korvataksesi rivin.
+
+  5. Toista vaiheet 2 - 4 laittaaksesi rivit oikeaan järjestykseen.
+
+     d) Neljäs rivi
+     a) Ensimmäinen rivi
+     c) Kolmas rivi
+     b) Toinen rivi
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
