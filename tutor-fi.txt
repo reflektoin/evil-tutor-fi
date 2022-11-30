@@ -444,3 +444,24 @@ Siirry nyt seuraavaan oppituntiin.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    Oppitunti 4.3: Vastaavan sulkeen etsiminen
+
+                ** Kirjoita  %  etsiäksesi vastaava ), ] tai }  **
+
+  1.  Aseta merkeine ---> alkavalla rivillä kursori mille tahansa (, [, tai {
+      merkille.
+
+  2. Nyt näppäile  %  merkki.
+
+  3. Kursorin pitäisi siirtyä vastaavalle sulkeelle tai aaltosulkeelle.
+
+  4. Näppäile  %  siirtääksesi kursori takaisin ensimmäiselle (vastaavalle)
+     sulkeelle.
+
+---> Tämä ( on testirivi, monilla ( eri [ tyylisillä { sulkeilla } ] ] ).
+
+HUOM: Tämä on erittäin hyödyllistä debugatessa ohjelmia, joista puuttuu
+      jompi kumpi sulun pääty (ja elispissä)!
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
