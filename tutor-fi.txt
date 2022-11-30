@@ -421,3 +421,26 @@ Siirry nyt seuraavaan oppituntiin.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    Oppitunti 4.2:   Etsi   komento
+
+
+            **  Kirjoita  /  ja sen perään merkkijono, jota etsit.  **
+
+  1. Ollessasi normaali-tilassa, kirjoita  /  merkki. Huomaa, että se ja
+     kursori ilmestyvät näytön alareunaan  komennon   :   tapaan.
+
+  2. Nyt kirjoita  'virrhhee   <ENTER>.  Tämä on etsimäsi merkkijono.
+
+  3. Etsiäksesi samaa merkkijonoa, paina:  n
+     Etsiäksesi samaa merkkijonoa vastakkaiseen suuntaan, paina:  N
+
+  4. Jos haluat etsiä merkkijonoa taaksepäin, käytä komentoa  ?  komennon  /
+     sijaan.
+
+
+--->  Kun etsintä saavuttaa puskurin lopun se aloittaa etsimisen alusta.
+
+  "virrhhee" ei ole oikea kirjoitustapa; virrhhee on virhe.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
