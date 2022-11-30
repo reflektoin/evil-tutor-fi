@@ -465,3 +465,54 @@ HUOM: Tämä on erittäin hyödyllistä debugatessa ohjelmia, joista puuttuu
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    Oppitunti 4.4: Uusi tapa muuttaa virheitä
+
+
+    **  Kirjoita  :s/vanha/uusi/g  korvataksesi merkkijono  'vanha'
+            merkkijonolla 'uusi'  *
+
+
+  1. Siirrä kursori merkein ---> alkavalle riville.
+
+  2. Kirjoita  :s/parsa/paras <ENTER>
+     Huomaa, että tämä komento muuttaa vain rivin ensimmäisen esiintymän.
+
+  3. Nyt kirjoita  :s/parsa/paras/g  , joka tarkoittaa korvausta koko rivillä.
+     Tämä muuttaa kaikki rivin esiintymät.
+
+
+---> parsa aika kylvää ei ole parsa aika niittää, parsa on paras
+
+  4. Muuttaaksesi jokaisen esiintymän rivien välissä,
+
+     kirjoita  :#,#s/vanha/uusi/g  jossa #,# ovat rivien numerot.
+
+     Kirjoita :%/vanha/uusi/g  muuttaaksesi kaikki puskurin esiintymät.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        Oppitunti 4 Kooste
+
+  1. gg  liikuttaa kursorin puskurin alkuun.
+     G   liikuttaa kursorin puskurin loppuun.
+     :   ja sen jälkeen annettu numero ja <ENTER> liikuttaa kursorin numeron
+    määrittelemälle riville.
+
+  2. Kirjoittamalla  /  ja sen jälkeen merkkijono etsii kyseistä merkkijonoa
+     puskurissa ETEENPÄIN.
+     Kirjoittamalla  ?  ja sen jälkeen merkkijono etsii kyseistä merkkijonoa
+     puskurissa TAAKSEPÄIN.
+     Etsimisen jälkeen paina  n  etsiäksesi uudelleen samaan suuntaan tai
+     paina  N  etsiäksesi vastakkaiseen suuntaan.
+
+  3. Kirjoittamalla  %  kursorin ollessa merkin (,),[,],{, tai } kohdalla
+     siirtää kursorin vastaavan sulun kohdalle.
+
+  4. Korvataksesi ensimmäinen 'vanha' merkein 'uusi'      :s/vanha/uusi
+     Korvaa rivin kaikki 'vanha' tekstit merkein 'uusi'   :s/vanha/uusi/g
+     Korvaa merkkijonot rivi #:n välissä                  :#,#s/vanha/uusi/g
+     Korvaa kaikki ilmentymät tiedostossa komennolla      :%s/vanha/uusi/g
+     Kysy vahvistusta joka kerralla, lisää 'c'            :%s/vanha/uusi/gc
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
