@@ -674,3 +674,21 @@ HUOM: Tämä välttää kirjoittamasta  i  , viimeinen kirjain, lisättävä tek
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Oppitunti 6.3: Toinen versio korvaa-komennosta
+
+
+         ** Kirjoita iso R  korvataksesi enemmän kuin yksi kirjain. **
+
+  1. Siirrä kursori ensimmäiselle merkein ---> alkavalle riville.
+
+  2. Aseta kursori ensimmäisen sanan alkuun, joka eroaa toisen rivin
+     vastaavasta sanasta.
+
+---> Tehdäksesi ensimmäisestä rivistä kuten viimeisen, käytä näppäimiä.
+---> Tehdäksesi ensimmäisestä rivistä seuraavanlaisen, kirjoita R ja teksti.
+
+  4. Huomioi, että kun painat <ESC> poituaksesi kirjoitus-tilasta,
+     muuttamattomat osat säilyvät.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
