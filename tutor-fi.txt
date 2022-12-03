@@ -651,3 +651,26 @@ Avaa rivi tämän yläpuolelle kirjoittamalla   O   ollessasi tällä rivillä.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    Oppitunti 6.2: Lisää -komento
+
+
+            ** Kirjoita  a  kirjoittaaksesi tekstiä kursorin ETEEN.  **
+
+  1. Siirrä kursori ensimmäisen merkein ---> alkavan rivin loppuun painamalla
+      $  (dollarimerkki) normaali-tilassa.
+
+  2. Kirjoita  a  lisätäksesi tekstiä kursorin kohdalla olevan kirjaimen
+     ETUPUOLELLE. (iso A lisää tekstiä rivin loppuun.)
+
+HUOM: Tämä välttää kirjoittamasta  i  , viimeinen kirjain, lisättävä teksti,
+      <ESC>, kursori oikealle, ja lopuksi x  , vain lisätäksesi tekstiä
+      rivin loppuun!
+
+  3. Täydennä ensimmäinen rivi. Huomioi, että lisää on sama kuin kirjoitus-
+     tila, erona vain kohta, johon tekstiä lisätään.
+
+---> Tällä rivillä voit harjoitella
+---> Tällä rivillä voit harjoitella tekstin lisäämistä rivin loppuun.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
