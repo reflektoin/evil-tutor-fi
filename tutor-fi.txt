@@ -692,3 +692,17 @@ HUOM: Tämä välttää kirjoittamasta  i  , viimeinen kirjain, lisättävä tek
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                            Oppitunti 6 kooste
+
+
+  1. Kirjoittamalla        o  avaa rivin kursorin ALLE, sijoittaa kursorin
+     sille kirjoitus-tilassa.
+     Kirjoittamalla        O  avaa rivin kursorin YLLE.
+
+  2. Kirjoittamalla     a    lisäät tekstiä kursorin alla olevan merkin ETEEN.
+     Kirjoittamalla iso A    lisäät tekstiä rivin loppuun.
+
+  3. Kirjoittamalla iso R    siirryt korvaa-tilaan, kunnes poistut <ESC>:llä.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
