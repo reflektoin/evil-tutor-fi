@@ -607,3 +607,23 @@ HUOM:  Hakemasi tiedosto lisätään kursorisi sijaitsemaan kohtaan.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                            Oppitunnin 5 kooste
+
+
+  1.   :!komento  suorittaa ulkoisen komennon.
+
+       Joitain hyödyllisiä komentoja ovat:
+           :!ls  tai  :!dir                 -  näyttää hakemiston sisällön
+           :!rm  tai  :!del TIEDOSTONIMI    -  poistaa tiedoston TIEDOSTONIMI
+
+  2.   :w TIEDOSTONIMI  kirjoittaa nykyisen puskurin sisällön levylle tiedo-
+       stoon TIEDOSTONIMI.
+
+  3.   :#,#w TIEDOSTONIMI  tallentaa rivit ensimmäisestä annetusta rivistä
+       jälkimmäiseen riviin tiedostoon TIEDOSTONIMI.
+
+  4.  :r TIEDOSTONIMI  hakee tiedoston TIEDOSTONIMI sisällön ja lisää sen
+      nykyisen puskuriin kursorin kohdalle.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
