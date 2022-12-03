@@ -563,3 +563,24 @@ HUOM: Tämä on erittäin hyödyllistä debugatessa ohjelmia, joista puuttuu
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                Oppitunti 5.3: Valikoiva tallennus komento
+
+
+        ** Tallentaaksesi osan tiedostosta, kirjoita  :#,# w TIEDOSTONIMI  **
+
+  1. Jälleen, kirjoita  :!ls  tai   :!dir  saadaksesi kansiosi sisällön ja
+     valitse sopiva tiedostonimi, kuten TEST.
+
+  2. Paina mieleesi rivinumero, jolta tämä oppitunti alkaa.
+
+  3. Paina mieleesi myös rivinumero johon oppitunti päättyy.
+
+  4. Tallentaaksesi vain tämän osion tiedostoon, kirjoita   :#,# w TEST
+     jossa #-merkkien tilalla ovat rivinumerot (alku ja loppu) ja TEST on
+     tiedostonimesi.
+
+  5. Varmistaaksesi tiedoston luomisen, kirjoita  :!ls  tai :!dir, mutta ÄLÄ
+     poista sitä.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
