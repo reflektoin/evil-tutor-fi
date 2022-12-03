@@ -516,3 +516,26 @@ HUOM: Tämä on erittäin hyödyllistä debugatessa ohjelmia, joista puuttuu
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    Oppitunti 5.1: Ulkoisten komentojen suorittaminen
+
+
+        ** Kirjoita  :!  ja sen jälkeen suoritettava ulkoinen komento  **
+
+  1. Kirjoita tuttu komento  :  asettaaksesi kursori ikkunan alaosaan. Tämä
+     mahdollistaa komennon syöttämisen (muista, että käytimme tätä
+     hypätessämme puskurissa toiselle riville.)
+
+  2. Nyt kirjoita  !  (huutomerkki). Tämä mahdollistaa ulkoisen komennon
+     suorittamisen.
+
+  3. Kirjoita esimerkiksi  ls  huutomerkin jälkeen ja paina <ENTER>. Tämä
+     näyttää sinulle hakemiston sisällön, kuin olisit shell-kehotteessa. Tai
+     käytä   :!dir  jos ls ei toimi (Windowsia käyttäessä).
+
+---> Huom:  Tällä tavoin on mahdollista suorittaa mikä tahansa ulkoinen
+     komento.
+
+---> Huom:  Kaikki   :   komennot täytyy päättää painamalla <ENTER>
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
