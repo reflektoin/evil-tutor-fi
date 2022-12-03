@@ -627,3 +627,27 @@ HUOM:  Hakemasi tiedosto lisätään kursorisi sijaitsemaan kohtaan.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                Oppitunti 6.1: Avaa komento
+
+
+  ** Kirjoita  o  luodaksesi uusi rivi kursorin alapuolelle, siirtyäksesi
+                 sille ja vaihtaaksesi kirjoitustilaan.  **
+
+  1. Siirrä kursori merkein ---> alkavalle riville.
+
+  2. Kirjoita   o  luodaksesi uuden rivin kursorin ALAPUOLELLE ja siirtyäksesi
+     kirjoitustilaan.
+
+  3. Kopioi merkein ---> alkava rivi ja paina <ESC> poistuaksesi kirjoitus-
+     tilasta.
+
+---> Kirjoitettuasi   o   kursori siirtyy uudelle riville kirjoitus-tilassa.
+---> Kirjoitettuasi   o   kursori siirtyy uudelle riville kirjoitus-tilassa.
+
+  4. Avataksesi uuden rivin kursorin YLÄPUOLELLE, kirjoita iso O pienen o:n
+     sijaan.
+     Kokeile tätä ollessasi alla olevalla rivillä.
+Avaa rivi tämän yläpuolelle kirjoittamalla   O   ollessasi tällä rivillä.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
