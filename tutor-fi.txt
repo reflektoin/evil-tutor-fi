@@ -706,3 +706,19 @@ HUOM: Tämä välttää kirjoittamasta  i  , viimeinen kirjain, lisättävä tek
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tähän päättyy Evil Tutor. Sen oli tarkoitus antaa lyhyt yleiskatsaus
+Emacs+Evil -editoriin, juuri riittävästi pystyäksesi käyttämään editoria
+melko helposti. Tämä ei ole kaiken kattava, koska Evil sisältää paljon
+lisää komentoja.
+
+Tutoriaalin kirjoittivat Michael C. Pierce and Robert K. Ware,
+Colorado School of Mines, käyttäen ideoita henkilöltä Charles Smith,
+Colorado State University.  E-mail: bware@mines.colorado.edu.
+
+Vimille muokannut, Bram Moolenaar.
+Emacs+Evilille muokannut, Sylvain Benner.
+
+Pohjautuu vimtutor 1.5 versioon.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
