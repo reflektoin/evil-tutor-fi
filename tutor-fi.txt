@@ -318,7 +318,7 @@ Nyt siirry oppituntiin 2.
                     Oppitunti 3.2: Korvaa -komento
 
 
-    ** Paina  r  ja kirjain korvataksesi kursosin kohdalla oleva merkki. **
+    ** Paina  r  ja kirjain korvataksesi kursorin kohdalla oleva merkki. **
 
   1. Siirrä kursori merkein ---> alkavalle riville.
 
