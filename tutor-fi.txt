@@ -584,3 +584,26 @@ HUOM: Tämä on erittäin hyödyllistä debugatessa ohjelmia, joista puuttuu
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Oppitunti 5.4:  Tiedostojen hakeminen ja yhdistäminen
+
+
+    **  Lisätäksesi tiedoston sisällön, kirjoita   :r   TIEDOSTONIMI   **
+
+  1. Kirjoita  :!ls  tai  :!dir  varmistaaksesi, että tiedostosi TEST löytyy.
+
+  2. Aseta kursori tämän oppitunnin alkuun.
+
+HUOM: Suoritettuasi askeleen 3 näet oppitunnint 5.3. Sitten siirry ALAS
+      taas tälle oppitunnille.
+
+  3. Hae TEST tiedostosi käyttäen komentoa  :r TEST jossa TEST on tiedostosi
+     nimi.
+
+HUOM:  Hakemasi tiedosto lisätään kursorisi sijaitsemaan kohtaan.
+
+  4. Varmistaaksesi, että tiedosto haettiin, siirry taaksempäin ja huomaa,
+     että oppitunti 5.3:sta on kaksi kopioita, alkuperäinen ja tiedoston
+     versio.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
