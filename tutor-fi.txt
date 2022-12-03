@@ -539,3 +539,27 @@ HUOM: Tämä on erittäin hyödyllistä debugatessa ohjelmia, joista puuttuu
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                Oppitunti 5.2:  Lisää tiedostoihin tallentamisesta
+
+    ** Tallentaaksesi muutokset tiedostoon, kirjoita  :w  TIEDOSTONIMI  **
+
+  1. Kirjoita   :!ls   tai   :!dir  saadaksesi hakemiston sisällön.
+     Tiedät jo, että sinun täytyy painaa <ENTER> tämän jälkeen.
+
+  2. Valitse tiedostonimi, jota ei vielä ole, kuten TEST.
+
+  3. Nyt kirjoita:  :w TEST  (jossa TEST on valitsemasi tiedostonimi).
+
+  4. Tämä tallentaa koko tiedoston nimelle TEST.
+     Vahvistaaksesi tämän, kirjoita  :!ls   tai  :!dir  nähdäksesi
+     hakemistosi sisällön.
+
+---> Huomioi, että jos suljet Emacsin ja syötät jälleen tiedostonimen TEST,
+     tiedosto olisi identtinen kopioi tallentamastasi tutorista.
+
+  5. Nyt poista tiedosto kirjoittamalla:
+     Unixissa:     :!rm TEST
+     Windowsissa:  :!del TEST
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
